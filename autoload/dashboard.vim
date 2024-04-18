@@ -1,15 +1,15 @@
 " File:        dashboard.vim
 " Description: Contains functions required by plugin/dashboard.vim
 " Author:      Satyam Goel <goelsatyam42@gmail.com>
-" Created:     12 April 2024
-" Last Change: 14 April 2024
+" Created:     18 April 2024
+" Last Change: 18 April 2024
 " Version:     1.0.0
 "
 " 
 "autoload/dashboard.vim
 
 let $DISPLAY = ''
-let g:myquick_path = '~/.vim/plugged/vim-test/quick/'
+let g:myquick_path = '~/.vim/plugged/vim-dashboard/quick/'
 let g:script_path = '/bin/csh'
 let g:script = 'csh'
 let g:file_mapping = {}
