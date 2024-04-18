@@ -8,7 +8,7 @@
 " 
 "autoload/dashboard.vim
 
-let $DISPLAY = 'inn-satgoe3d-vm:1'
+let $DISPLAY = ''
 let g:myquick_path = '~/.vim/plugged/vim-test/quick/'
 let g:script_path = '/bin/csh'
 let g:script = 'csh'
