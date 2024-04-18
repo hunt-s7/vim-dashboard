@@ -1,6 +1,6 @@
 " File:        dashboard.vim
 " Description: Contains functions required by plugin/dashboard.vim
-" Author:      Satyam Goel <goelsatyam42@gmail.com>
+" Author:      Satyam Goel <satyamgoel42@gmail.com>
 " Created:     18 April 2024
 " Last Change: 18 April 2024
 " Version:     1.0.0
