@@ -3,4 +3,4 @@
 " Author:      Satyam Goel <satyamgoel42@gmail.com>
 " Version:     1.0.0
 "
-autocmd VimEnter * if argc() == 0 | call DashBoard() | endif
+autocmd VimEnter * if argc() == 0 | call dashboard#DashBoard() | endif
