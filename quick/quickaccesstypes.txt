@@ -1,0 +1,2 @@
+FILES myFileSetUp.txt
+FOLDERS myFolderSetUp.txt
