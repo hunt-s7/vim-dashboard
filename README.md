@@ -28,17 +28,11 @@ Once installed, **Vim Dashboard** will automatically display upon opening Vim. Y
 
 ```vim
 " Customize dashboard
-let g:dashboard_custom_header = 'Welcome to Vim!'
-let g:dashboard_custom_footer = ['github.com/your_username/vim-dashboard', 'Customize Me!']
-let g:dashboard_default_executive = 'telescope'
+Arriving soon...
 
 " Add custom widgets
-let g:dashboard_custom_section = {
-      \ 'bookmarks': get(b:, 'dashboard_bookmarks', []),
-      \ 'projects': get(b:, 'dashboard_projects', []),
-      \ 'history': get(b:, 'dashboard_history', []),
-      \ 'overview': get(b:, 'dashboard_overview', []),
-      \ }
+Arriving soon...
+
 ```
 
 For more information on customization options, refer to the [documentation](docs/).
